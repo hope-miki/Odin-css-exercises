@@ -1,0 +1,13 @@
+.one {
+    background-color:black;
+    color:white;
+}
+
+.two{
+    background-color:yellow;
+}
+
+.size{
+    font-size:28;
+    font-family:Helvetica,"Times New Romam", sans-serif;
+}
